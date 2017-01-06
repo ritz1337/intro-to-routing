@@ -4,7 +4,7 @@ Can you create the following requests and responses?
 
 When a user visits '/' display "Hello and welcome"
 
-When a user visits '/randomNumber' display a number from 1 to 10
+When a user visits '/random' display a number from 1 to 10
 
 When a user visits '/eighball' display "Yes" | "No" | "Maybe"
 
